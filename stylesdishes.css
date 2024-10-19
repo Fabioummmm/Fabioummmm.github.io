@@ -250,7 +250,7 @@ body {
   left: 0;
   width: 100vw;
   height: 100vh;
-  pointer-events: none; /* Prevent interaction with the canvas */
+  pointer-events: auto; /* Prevent interaction with the canvas */
 }
 
 
@@ -282,7 +282,7 @@ body {
   left: 0;
   width: 100vw;
   height: 100vh;
-  pointer-events: none; /* Prevent interaction with the canvas */
+  pointer-events: auto; /* Prevent interaction with the canvas */
 }
 
 
